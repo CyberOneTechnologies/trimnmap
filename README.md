@@ -13,10 +13,10 @@ git clone https://github.com/CyberOneTechnologies/trimnmap.git
 To use TrimNmap, you need to have Python installed on your system. Follow these steps to set up the required environment:
 
 1. Ensure Python is installed:
-- You can download Python from the official website: python.org.
-- Choose the appropriate version for your operating system and follow the installation instructions.
+   - You can download Python from the official website: python.org.
+   - Choose the appropriate version for your operating system and follow the installation instructions.
 2. Install dependencies:
-- TrimNmap has no external dependencies, so no additional installation steps are required.
+   - TrimNmap has no external dependencies, so no additional installation steps are required.
 
 
 # Usage
@@ -34,8 +34,8 @@ python trim_nmap.py
 ```
 
 4. Follow the on-screen prompts:
-- Enter the path of the input file to trim.
-- Enter the path and name of the output file for the trimmed version.
+  - Enter the path of the input file to trim.
+  - Enter the path and name of the output file for the trimmed version.
 5. TrimNmap will process the input file and generate the trimmed output file.
 
 # Contributing
